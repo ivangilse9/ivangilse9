@@ -3,24 +3,13 @@
 ## Who am I?
 
  ```python
-  class WhoAmI:
-    user = 'ivan gil '
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+soy ivan gil un estudiante de grsdaw
+
+tengo 18 años
+
+vivo en priego de cordoba
+
+
 	
  ```
 
